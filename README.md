@@ -1,6 +1,6 @@
 ## Hi there!
 
-#### About me
+#### About Me
 - 👋 Hi, I’m @UzawaReisaQwQ
 - 📘 我是一位内向的INFJ
 - 🎉 蓝桥杯青少组Python省赛三等奖获得者、全国NOC大赛二等奖获得者、TCTY应用工程组三级通过
