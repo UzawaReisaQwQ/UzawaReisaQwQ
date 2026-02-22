@@ -1,6 +1,6 @@
 ## Hi there!
 
-<img src="https://github.com/UzawaReisaQwQ/UzawaReisaQwQ/blob/faeb2d16901160ce10f1f794a2286eddbb72a8c5/title.png" width="700" />
+<img src="https://github.com/UzawaReisaQwQ/UzawaReisaQwQ/blob/main/title.png" width="700" />
 
 #### About Me
 - 👋 Hi, I’m @UzawaReisaQwQ
