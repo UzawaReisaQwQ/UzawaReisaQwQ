@@ -1,5 +1,7 @@
 ## Hi there!
 
+<img src="https://github.com/UzawaReisaQwQ/UzawaReisaQwQ/blob/faeb2d16901160ce10f1f794a2286eddbb72a8c5/title.png" width="700" />
+
 #### About Me
 - 👋 Hi, I’m @UzawaReisaQwQ
 - 📘 我是一位内向的INFJ
@@ -18,9 +20,10 @@
 #### My Skills
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,java,kotlin,py,pytorch,docker,arduino,godot,html,css,mysql,ps,pr)
 
-<!-- #### My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uzawareisaqwq&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzawareisaqwq&layout=compact&theme=radical) -->
+#### My Github Stats
+![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=UzawaReisaQwQ&show_icons=true&theme=dracula)
+<!-- ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=uzawareisaqwq&theme=dracula) -->
+<!-- https://github-readme-stats-one-bice.vercel.app/api?username=UzawaReisaQwQ&show_icons=true&theme=dracula https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=uzawareisaqwq&layout=compact&theme=tokyonight -->
 
 #### Contact Me
 - BiliBili: https://space.bilibili.com/499239599
