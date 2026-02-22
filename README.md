@@ -6,8 +6,8 @@
 - 👋 Hi, I’m @UzawaReisaQwQ
 - 📘 我是一位内向的INFJ
 - 🎉 蓝桥杯青少组Python省赛三等奖获得者、全国NOC大赛二等奖获得者、TCTY应用工程组三级通过
-- 🗺️ 日常开发语言：C# Python
-- ⚡ 正在学习的语言：C++ Java Kotlin Dart
+- 🗺️ 日常开发语言：C# Python Dart
+- ⚡ 正在学习的语言：C++ Java Kotlin
 - 📦 软件逆向菜鸟一枚
 - 💡 洛谷 LeetCode 算法题菜鸟一枚
 - ⚔️ 初级CTFer一枚
