@@ -30,7 +30,7 @@
 - Gitee: https://gitee.com/uzawareisa
 - <span>Discord: <a href="http://discordapp.com/users/1223657715914641431">uzawareisa2024</a></span>
 - <span>Telegram: <a href="https://t.me/UzawaReisaQwQ">@UzawaReisaQwQ</a></span>
-- <span>E-Mail: <a href="mailto:intptrdev2024@dingtalk.com">intptrdev2024@dingtalk.com</a></span>
+- <span>E-Mail: <a href="mailto:intptrdev2024@dingtalk.com">intptrdev2024@dingtalk.com / intptr2024@gmail.com</a></span>
 - **微信/企业微信/QQ/飞书/钉钉（商务/合作）：请先通过邮箱联系我获得联系方式**
 
 <!---
